@@ -1,0 +1,26 @@
+No. Topic Sub-topic Question Difficulty Leetcode Link
+1:  Array:  Hashmap Two Sum Easy :  https://leetcode.com/problems/two-sum/
+2 : Array : Two-pointer/min-max Best Time to Buy and Sell Stock Easy https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+3:  Array:  Two-pointer Two Sum II (sorted input) Easy https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+4:  Array:  Hashmap Contains Duplicate Easy https://leetcode.com/problems/contains-duplicate/
+5:  Array:  Kadane's Algorithm Maximum Subarray Easy https://leetcode.com/problems/maximum-subarray/
+6:  Array:  Two-pointer 3Sum Medium https://leetcode.com/problems/3sum/
+7:  Array:  Logical Product of Array Except Self Medium https://leetcode.com/problems/product-of-array-except-self/
+8:  Array:  Two-pointer Container With Most Water Medium https://leetcode.com/problems/container-with-most-water/
+9:  Array:  Running sum Subarray Sum Equals K Medium https://leetcode.com/problems/subarray-sum-equals-k/
+10 : Array : Running sum Longest subarray with sum equals K Medium https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/
+11 : Array : Running sum + pointer Minimum Size Subarray Sum Medium https://leetcode.com/problems/minimum-size-subarray-sum/
+12 : Array : Hashmap K-diff Pairs in an Array Medium https://leetcode.com/problems/k-diff-pairs-in-an-array/
+13 : Array : Maximum Length of Repeated Subarray Medium https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+14 Binary Sum of Two Integers Easy https://leetcode.com/problems/sum-of-two-integers/
+15 Binary Number of 1 Bits Easy https://leetcode.com/problems/number-of-1-bits/
+16 Binary Counting Bits Medium https://leetcode.com/problems/counting-bits/
+17 Binary Missing Number Easy https://leetcode.com/problems/missing-number/
+18 Binary Reverse Bits Easy https://leetcode.com/problems/reverse-bits/
+19 Array Sort an array of 0’s 1’s 2’s without using extra space or sorting algo Medium https://leetcode.com/problems/sort-colors/
+20 Array Repeat and Missing Number Medium https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+21 Array Merge Overlapping Subintervals Medium https://leetcode.com/problems/merge-intervals/
+22 Array Find the duplicate in an array of N+1 integers Medium https://leetcode.com/problems/find-the-duplicate-number/
+23 Array Set Matrix Zeros Medium https://leetcode.com/problems/set-matrix-zeroes/
+24 Array Pascal Triangle Easy https://leetcode.com/problems/pascals-triangle/
+25 Array Transpose of matrix Rotate Matrix Medium https://leetcode.com/problems/rotate-image/
