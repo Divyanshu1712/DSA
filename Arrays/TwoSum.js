@@ -19,8 +19,3 @@ function twoSum(zrr, traget){
 }
 console.log(twoSum(zrr, target))
 
-// Hashmap method
-
-function hashTwo(zrr, traget){
-
-}
