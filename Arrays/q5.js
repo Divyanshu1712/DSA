@@ -6,21 +6,21 @@
 // Explanation: The subarray [4,-1,2,1] has the largest sum 6.
 
 
-let nums = [-1]
+// let nums = [-2,1,-3,4,-1,2,1,-5,4]
 
-function scer(nums) {
-    let maxSum = nums[0]
-    let cuSum = nums[0]
-    for (let i in nums) {
-        cuSum += nums[i]
-        maxSum = Math.max(cuSum, maxSum)
-        if (cuSum < 0) {
-            cuSum = 0
-        }
-    }
-    return maxSum
-}
-console.log(scer(nums))
+// function scer(nums) {
+//     let maxSum = nums[0]
+//     let cuSum = nums[0]
+//     for (let i in nums) {
+//         cuSum += nums[i]
+//         maxSum = Math.max(cuSum, maxSum)
+//         if (cuSum < 0) {
+//             cuSum = 0
+//         }
+//     }
+//     return maxSum
+// }
+// console.log(scer(nums))
 
 
 // function largestSum(nums) {
@@ -41,15 +41,20 @@ console.log(scer(nums))
 // console.log(largestSum(nums))
 
 // optmised code is here
+let nums = [-1,1]
 
 var maxSubArray = function (nums) {
+    if (nums.length === 0) return [0]
     let maxSum = nums[0]
     let cuSum = nums[0]
-    if (nums.length === 0) return []
+
     for (let i = 1; i < nums.length; i++) {
+
         cuSum = Math.max(nums[i], nums[i] + cuSum)
         maxSum = Math.max(cuSum, maxSum)
         if (cuSum < 0) cuSum = 0
     }
+
     return maxSum
 };
+console.log(maxSubArray(nums))
